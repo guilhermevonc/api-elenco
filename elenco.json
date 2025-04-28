@@ -165,7 +165,7 @@
     "jogador": "Cadu",
     "numero": "42",
     "posicao": "Atacante",
-    "foto": "https://atletico.com.br/wp-content/uploads/2025/01/Caio-Maia.png"
+    "foto": "https://atletico.com.br/wp-content/uploads/2024/07/Cadu.png"
   },
   {
     "id": 25,
@@ -179,14 +179,14 @@
     "jogador": "Brahian Palacios",
     "numero": "30",
     "posicao": "Atacante",
-    "foto": "https://atletico.com.br/wp-content/uploads/2025/03/jm-site.png"
+    "foto": "https://atletico.com.br/wp-content/uploads/2024/07/Palacios.png"
   },
   {
     "id": 27,
     "jogador": "Cuello",
     "numero": "28",
     "posicao": "Atacante",
-    "foto": "https://atletico.com.br/wp-content/uploads/2025/03/jm-site.png"
+    "foto": "https://atletico.com.br/wp-content/uploads/2025/01/Cuello.png"
   },
   {
     "id": 28,
@@ -200,13 +200,13 @@
     "jogador": "Rony",
     "numero": "33",
     "posicao": "Atacante",
-    "foto": ""
+    "foto": "https://atletico.com.br/wp-content/uploads/2025/02/Rony-1.png"
   },
   {
     "id": 30,
     "jogador": "Hulk",
     "numero": "7",
     "posicao": "Atacante",
-    "foto": ""
+    "foto": "https://atletico.com.br/wp-content/uploads/2024/07/Hulk.png"
   }
 ]
